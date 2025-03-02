@@ -1,0 +1,6 @@
+{
+  "name": "react",
+  "root": "apps/react",
+  "sourceRoot": "apps/react/src",
+  "projectType": "application"
+}

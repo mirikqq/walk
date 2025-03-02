@@ -1,0 +1,6 @@
+{
+  "name": "vue",
+  "root": "apps/vue",
+  "sourceRoot": "apps/vue/src",
+  "projectType": "application"
+}

@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "renderer": {
+      "root": "./apps/renderer/",
+      "sourceRoot": "./apps/renderer/src/",
+      "projectType": "application",
+      "architect": {
+        "serve": {
+          "builder": "astro build",
+          "options": {
+            "command": "astro dev"
+          }
+        }
+      }
+    }
+  }
+}

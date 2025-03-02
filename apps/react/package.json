@@ -1,0 +1,8 @@
+{
+  "name": "@./react",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@nanostores/react": "^0.8.4"
+  }
+}
